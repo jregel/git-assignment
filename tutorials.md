@@ -33,3 +33,12 @@ Instructions- This tutorial is easy to learn because it divided into few steps. 
 The major issue in website UI is that, if we start exercise and want see content of that module, we have to leave whole website and start doing everything all over.
 
 
+I am Hemil Patel. 
+The tutorial assigned to me was to tryGit challenges(1-25). These challenges seems more interasting to me and it helped me alot.
+
+1) Each challenge devided into two parts, first one is instructions and second is implementations. According to that I created a repository in my account and perform all the necessary actions in order to complete it. After completion, the software automatically checked for whether it is completed successfully or not.
+
+2) In order to complete the challenges, instructions are given. It was very clear to understand how the command line arguments works in order to complete different tasks in Git and also The graphical representations were very useful.
+
+Overall, it was a great experience to use such software to learn Git.
+
