@@ -1,3 +1,3 @@
-I am Kamalvir Kaur.I studied all main git tutorials including branching,merging, rebasing and many more. 
-It was easy to solve all the questions as instructions were clear and concise from basic to advance levels.
- I learnt all the basics of git in an easy manner but if we want to check some step it will start again from beginning.
+I am Mayur Nehete.I studied all main git tutorials including branching,merging, rebasing and many more. 
+Thing that did work for me was easy to understand and on-hand practise of git step by step, it helped me understand the concept clearly.\
+Thing that didnt work was the sound quality for some of the videos, it was not was easy to follow sometimes.
