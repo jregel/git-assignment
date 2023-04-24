@@ -1,3 +1,3 @@
-I am Kamalvir Kaur.I studied all main git tutorials including branching,merging, rebasing and many more. 
-It was easy to solve all the questions as instructions were clear and concise from basic to advance levels.
- I learnt all the basics of git in an easy manner but if we want to check some step it will start again from beginning.
+My name is Shubham Mourya.The Git Immersion session was interactive and covered a range of Git ideas, from fundamental to complex, and I found it to be really enjoyable.  Although their class used Python in Jupyter notebooks, the instructor featured examples of Ruby code.
+
+The tutorial's well-organized coverage of both fundamental and complex Git subjects, as well as its practical lab exercises, are its strong points. Its use of Ruby code, however, might not be as significant for a Python-based class, and the user interface might be more aesthetically pleasing. More in-depth explanations might be helpful in some sophisticated labs.
