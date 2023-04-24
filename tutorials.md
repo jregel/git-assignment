@@ -1,3 +1,13 @@
-I am Kamalvir Kaur.I studied all main git tutorials including branching,merging, rebasing and many more. 
-It was easy to solve all the questions as instructions were clear and concise from basic to advance levels.
- I learnt all the basics of git in an easy manner but if we want to check some step it will start again from beginning.
+I am Karsh Gabani.
+I just finished the Git Immersion tutorial, and I thought it was a very engaging and thorough learning experience. 
+The guide covers a wide range of Git principles, from installation to more complex subjects like branching, merging, 
+and using distant repositories. 
+
+Pros:
+
+- The lesson is well-organized and covers crucial Git subjects like starting projects, staging changes, committing changes, reversing changes, and reading history.
+
+Cons:
+
+- To better engage students, the user interface might be more aesthetically pleasing.
+- Some complex labs may benefit from more thorough descriptions to make topics clearer.
