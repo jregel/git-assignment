@@ -1,3 +1,3 @@
-I am Kamalvir Kaur.I studied all main git tutorials including branching,merging, rebasing and many more. 
-It was easy to solve all the questions as instructions were clear and concise from basic to advance levels.
- I learnt all the basics of git in an easy manner but if we want to check some step it will start again from beginning.
+I am Neetkumar Patel.
+While browsing through https://learngitbranching.js.org/, I came across some highly instructive tutorials.The interactive and captivating exercises helped me develop a more nuanced understanding of git branching. 
+Nonetheless, I did find it somewhat frustrating that I was unable to move on to the next tutorial unless I completed a task in the specific manner that was expected. If I tried to complete the task in a different way, I had to reload the page to proceed.
